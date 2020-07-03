@@ -24,5 +24,3 @@ do
     totalEmpHrs=$(($totalEmpHrs*$empHrs))
 done
 totalSalary=$(($totalEmpHrs*$EMP_RATE_PER_HR));
-
-

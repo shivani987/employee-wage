@@ -16,4 +16,3 @@ else
 fi
 salary=$(($empHrs*$empRatePerHrs));
 
-

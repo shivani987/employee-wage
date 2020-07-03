@@ -10,4 +10,3 @@ then
 else
     salary=0;
 fi
-
